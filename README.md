@@ -20,3 +20,7 @@ ASCII art is a form of digital art created by using characters and symbols to re
   • kit.image_to_ascii_art() is a function provided by pywhatkit that converts an image to ASCII art.
   • The first argument is the path to the input image file "D:/Kaniz/Ascii/kaniz.jpg". Replace this with the path to the image you want to convert.
   • The second argument is the name of the output text file where the ASCII art will be saved, "ascii1.txt". You can change this to any desired file name and location.
+
+🐍 𝐅𝐢𝐧𝐚𝐥 𝐂𝐨𝐝𝐞:
+
+![codeimage-snippet_8 (2)](https://github.com/kaniz-codes/Image-to-Ascii-Python/assets/138873297/49e3ac69-b801-4383-8f8a-625aaf2045c7)
