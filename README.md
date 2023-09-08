@@ -10,6 +10,7 @@ ASCII art is a form of digital art created by using characters and symbols to re
 
 1. Importing the 𝐩𝐲𝐰𝐡𝐚𝐭𝐤𝐢𝐭 library:
    
+   
    ![codeimage-snippet_8](https://github.com/kaniz-codes/Image-to-Ascii-Python/assets/138873297/3c50aaa8-0567-474a-8596-af0146109fa0)
 
    Here, we import the pywhatkit library and alias it as kit for convenience.
